@@ -2,12 +2,6 @@
 
 A very small and minimal Fastfetch theme
 
-## Installation
-
-```
-$ git clone https://gitlab.com/frostalicious/tiny ~/.config/fastfetch
-```
-
 ## Preview
 
 ```
@@ -18,4 +12,10 @@ $ git clone https://gitlab.com/frostalicious/tiny ~/.config/fastfetch
   /      ,`\    uptime 12 hours, 4 mins
  /   ,.'`.  \   pkgs   1034
 /.,'`     `'.\  shell  zsh
+```
+
+## Installation
+
+```
+$ git clone https://gitlab.com/frostalicious/tiny ~/.config/fastfetch
 ```
