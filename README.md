@@ -5,7 +5,6 @@ A very small and minimal Fastfetch theme
 ## Installation
 
 ```
-$ mkdir -p ~/.config
 $ git clone https://gitlab.com/frostalicious/tiny ~/.config/fastfetch
 ```
 
