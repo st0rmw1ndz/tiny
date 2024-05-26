@@ -12,6 +12,9 @@
     },
     "modules": [
         {
+            "type": "title"
+        },
+        {
             "type": "os",
             "key": "os",
             "format": "{2}"
@@ -37,11 +40,6 @@
         {
             "type": "shell",
             "key": "shell",
-            "format": "{1}"
-        },
-        {
-            "type": "wm",
-            "key": "wm",
             "format": "{1}"
         }
     ]
