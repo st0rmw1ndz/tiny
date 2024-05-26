@@ -9,7 +9,7 @@ $ mkdir -p ~/.config
 $ git clone https://gitlab.com/frostalicious/tiny ~/.config/fastfetch
 ```
 
-## Example Output
+## Preview
 
 ```
       /\        frosty@gf63-thin
